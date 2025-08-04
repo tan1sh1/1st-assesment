@@ -1,4 +1,4 @@
-public class Main {
+public class EmployeeOnboardingSystem {
 
 
     final static String COMPANY_NAME = "HDFC Life";
